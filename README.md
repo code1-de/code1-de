@@ -1,9 +1,9 @@
-# Code1
+# Code1 GmbH
 
 Agentic software development — Christoph Lüders, Bonn, Germany.
 
-I solve new problems with agentic development every day and show what actually works. 35 years of C,
-C++, Python and Rust; today the focus is agentic AI in software development.
+I solve new problems with agentic development. 40 years of C,
+C++, Python and Rust; Now with a focus on agentic AI in software development.
 
 ## Projects
 
@@ -17,9 +17,9 @@ C++, Python and Rust; today the focus is agentic AI in software development.
 
 ## Workshops & meetups
 
-Free open meetups on
-agentic coding at the Alte Kaffeerösterei in Bonn.
+Free open [meetups](https://code1.de/meetups.html) on
+agentic coding at the [Alte Kaffeerösterei](https://alte-kaffeeroesterei.com) in Bonn.
 
 [code1.de](https://code1.de) · 
-[Meetups](https://code1.de/meetups.html) · [Blog](https://code1.de/blog.html) ·
+[Blog](https://code1.de/blog.html) ·
 [Contact](https://code1.de/contact.html)
