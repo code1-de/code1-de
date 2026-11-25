@@ -2,7 +2,7 @@
 
 Agentic software development — Christoph Lüders, Bonn, Germany.
 
-I solve new problems with agentic development. 40 years of C,
+I solve problems with agentic software development. 40 years of C,
 C++, Python and Rust; Now with a focus on agentic AI in software development.
 
 ## Projects
@@ -15,7 +15,7 @@ C++, Python and Rust; Now with a focus on agentic AI in software development.
 - **[mitm-ssh-mcp](https://github.com/code1-de/mitm-ssh-mcp)** — MCP server that records Claude's
   SSH sessions live.
 
-## Workshops & meetups
+## Meetups
 
 Free open [meetups](https://code1.de/meetups.html) on
 agentic coding at the [Alte Kaffeerösterei](https://alte-kaffeeroesterei.com) in Bonn.
